@@ -44,9 +44,7 @@ class Reading(DocType):
 Reading.init()
 
 count=0
-skip=1
-skip=1066885
-skip=3221877
+skip=0
 with open('campus_buildings_geo_meters_data.csv','rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     for row in reader:
