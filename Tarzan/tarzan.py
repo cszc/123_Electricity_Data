@@ -165,6 +165,21 @@ def get_expected_value(w, str_r, scale_factor, x_factor):
 
 
 def score_windows(str_r, str_x, window, threshold=2):
+    '''
+    Takes a string of interest, reference string, window size, and threshold,
+    and returns a list of scores for each window and a list of surprising scores and
+    windows.
+
+    Input:
+        str_r: string - reference string
+        str_x: string - string to look for surprising windows
+        window: int - size of window to slide over str_x
+        threshold: int - scores over this threshold will be flagged as surprising
+    Output:
+        scores: list of all scores (ints)
+        surprises: list of tuples countaining a score over a certain threshold (int)
+        and the index in str_x in which in appears.
+    '''
     r = len(str_r)
     x = len(str_x)
     scale_factor = ((x - window + 1) / (r - window + 1))
@@ -183,13 +198,26 @@ def score_windows(str_r, str_x, window, threshold=2):
 
 
 def tarzan(series, alpha_size, window_length, feature_length, col_name, threshold=2):
+    '''
+    Input:
+        series:
+        alpha_size:
+        window_length:
+        feature_length:
+        col_name:
+        threshold:
+    Output:
+        surprising windows:
+        scores:
+        col_names:
+    '''
     one_week = 2*24*7 #2 readings per hour each day for seven days
     ts = series[col_name]
     start_of_x = len(ts) - one_week
     r_ts, x_ts = ts[:start_of_x], ts[start_of_x:]
     r = discretize(r_ts, alpha_size, feature_length)
     x = discretize(x_ts, alpha_size, feature_length)
-    print(x)
+
     scores, surprises = score_windows(r, x, window_length, threshold)
     surprising_windows = []
     for surprise in surprises:

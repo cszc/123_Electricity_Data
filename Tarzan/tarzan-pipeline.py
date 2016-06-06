@@ -1,9 +1,13 @@
 import pandas as pd
 import numpy as np
+import json
 from tarzan import *
 
-print("it's starting")
+ALPHA_SIZE
+WINDOW_LENGTH
+FEATURE_LENGTH
 
+print("it's starting")
 df = pd.read_csv('MetersAsColumns.csv')
 meters = df.columns
 
@@ -12,7 +16,10 @@ print('starting')
 surprises = []
 results = []
 
+tarzan_dict = {'meter':None, 'score': 'window'None}
+
 for meter in df.columns[1:]:
+    #convert each column to a time series
     ts = df.loc[:, ['datetime', meter]]
     print(meter)
     try:
