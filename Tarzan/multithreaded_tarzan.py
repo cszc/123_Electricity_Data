@@ -10,6 +10,7 @@ threads = []
 surprises = []
 results = []
 
+
 def main():
     parser = ArgumentParser()
     parser.add_argument('csv')
@@ -63,7 +64,7 @@ def worker():
             print(item['col_name']+ ": Excepted")
             continue
         finally:
-            print(item + ":done")
+            print(item['col_name'] + ":done")
             q.task_done()
 
 
