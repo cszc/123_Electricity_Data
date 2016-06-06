@@ -3,15 +3,9 @@ Discretizing/Tokenizing the time series. O(N) time.
 
 Based on: http://www.cs.ucr.edu/~eamonn/sigkdd_tarzan.pdf
 
-With help from: https://blog.acolyer.org/2016/05/09/finding-surprising-patterns-in-a-time-series-database-in-linear-time-and-space/
+Interpretation with help from: https://blog.acolyer.org/2016/05/09/finding-surprising-patterns-in-a-time-series-database-in-linear-time-and-space/
 '''
-#Tarzan Anomaly Detection Algorithm
-#Big Data Questions:
-#How to map reduce this
-#How to do it on different distributed databases
-#Other ways of making it fater?
-#Is there a way we can store or precalcuate the discretized versions in order to query faster,
-#maybe given a pre determined set of windows
+
 import numpy as np
 import pandas as pd
 import warnings
@@ -20,16 +14,21 @@ from suffix_array import *
 from operator import mul
 from functools import reduce
 
-alphabet = list(string.ascii_letters)
+#Alphabet can contain max 52 characters: all lower and upper case ascii letters.
+ALPHABET = list(string.ascii_letters)
 
 def discretize(ts, alpha_size, feature_window):
     '''
-    ts: reference time series (numpy vector)
-    x_ts:
-    alpha_size: alphabet size (how many tokens/buckets)
-    feature_window: time window
+    Takes a numpy time series and returns a string representing a discretized
+    version of the time series.
+    Input:
+        ts: numpy array - reference time series (numpy vector)
+        alpha_size: int - alphabet size (how many tokens/buckets)
+        feature_window: int - time window used to discretize the time series
+    Output:
+        string, e.g. 'odobbbbicmknooppphhjpanhocnccccdddeeeaaapajjiaaapnnfccmb'
     '''
-    assert alpha_size <= len(alphabet), "alphabet size must be less than {0}".format(len(alphabet))
+    assert alpha_size <= len(ALPHABET), "alphabet size must be less than {0}".format(len(ALPHABET))
 
     windows = get_rolling_window(ts, feature_window)
     slopes = np.empty(ts.shape[0] - feature_window + 1)
@@ -39,12 +38,11 @@ def discretize(ts, alpha_size, feature_window):
     #Slide the feature window over the time series, and at each step calculate
     #the slope of the window
     for i, window in enumerate(windows):
-
         slopes[i] = get_slope(window, y)
 
     #Take all of the computed scores and replace them with labels created from
     #quantiled bins
-    tokens = pd.qcut(slopes, alpha_size, labels=alphabet[:alpha_size])
+    tokens = pd.qcut(slopes, alpha_size, labels=ALPHABET[:alpha_size])
 
     #casting pandas series of categories to a single string
     return "".join(list(tokens))
@@ -52,13 +50,22 @@ def discretize(ts, alpha_size, feature_window):
 
 def get_rolling_window(a, window):
     '''
-    a = array
-    window = window size
-    http://www.rigtorp.se/2011/01/01/rolling-statistics-numpy.html
+    Takes a time series and a window size and returns a matrix with each nested
+    array representing a window in the time series.
+    Taken from http://www.rigtorp.se/2011/01/01/rolling-statistics-numpy.html
+
+    Input:
+        a: numpy array - time series
+        window: int r- window size
+
+    Output:
+        numpy array of arrays, e.g. array([[[0, 1, 2], [1, 2, 3], [2, 3, 4]],
+                                        [[5, 6, 7], [6, 7, 8], [7, 8, 9]]])
     '''
     shape = a.shape[:-1] + (a.shape[-1] - window + 1, window)
     strides = a.strides + (a.strides[-1],)
     return np.lib.stride_tricks.as_strided(a, shape=shape, strides=strides)
+
 
 def get_slope(series, y, degree=1):
     '''
@@ -66,25 +73,34 @@ def get_slope(series, y, degree=1):
     degree is an integer
     '''
     x = np.array(series)
-    #if all elements in an array are the same, e.g. [0, 0]
+    #if all elements in an array are the same, return 0 e.g. [0, 0]
     if np.unique(x).size == 1:
         slope = 0
     else:
+        #get coefficient of highest degree; degree is always 1.
         slope = np.polyfit(x, y, degree)[0]
     return slope
 
 
 def get_longest_substring(suffix, str_r):
     '''
+    Takes a suffix and a reference string, and returns l, the length such that
+    every possible substring of length l in the suffix is present in the reference
+    string.
+    Input:
+        suffix: string
+        str_r: string (reference string)
+    Output:
+        l: int, length of longest substring
     '''
-    #
+    #l is maximum length of a substring
     for l in reversed(range(len(suffix))):
         i = 0
         found_longest = True
-        #
+        #substring shouldn't go past end of suffix
         while (i + l) <= len(suffix):
             substring = suffix[i:i+l]
-            #
+            #check if each substring of length l is present in reference string
             if substring not in str_r:
                 found_longest = False
                 break
@@ -96,6 +112,24 @@ def get_longest_substring(suffix, str_r):
 
 def get_expected_value(w, str_r, scale_factor, x_factor):
     '''
+    Takes a word, reference string, scale factor, and
+    If the full substring is found in the reference string, the expected value
+    is simply the number of times (count) the substring appears in the refence string.
+
+    Else if, if only substrings of length > 1 can be found in the reference string,
+    the expected value is the multipication of the counts for each substring
+    in the reference string, divided by the multiplication of the counts of
+    sub-substrings, "subsuffixes".
+
+    Else, if only strings of size <=1 can be found, the expected value is the
+    probability of seeing each individual string in the reference string multiplied
+    together. Please see the original paper for more details.
+
+    Input:
+        w: string - window to look for in reference string
+        str_r: string - reference string
+        scale_factor: float - factor to normalize score by size of strings
+        x_factor: float - alternative factor if entire window w isn't found in r
     '''
     count = str_r.count(w)
     expected_value = None
@@ -163,26 +197,3 @@ def tarzan(series, alpha_size, window_length, feature_length, col_name, threshol
         surprising_windows.append((x_ts[feature_length*index : feature_length*index + feature_length], score))
 
     return (surprising_windows, scores, col_name)
-
-
-
-# df = pd.read_csv('MetersAsColumns.csv')
-# rts = df['A06 Crerar Library (B1)']
-# a = discretize(rts, 50, 4)
-# a = [str(x) for x in a.tolist()]
-# print(a)
-
-"""
-1. Choose and alphabet size and feature window length
-slide the feature window over the time series
-
-2. func examine the data and computer a single real number from it
-(slope of best fitting line)
-
-take all of the computed scores and sort them
-based on sorted list, derive alphabet size buckets
-equal number of scores per bucket
-go back, and replace each score by the label of the bucket it falls into
-"""
-
-#
