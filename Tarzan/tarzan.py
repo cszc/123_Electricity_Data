@@ -154,9 +154,9 @@ def get_expected_value(w, str_r, scale_factor, x_factor):
 
         else:
             scale_factor = x_factor
-            for letter in suffix:
+            for letter in w:
                 numerator.append(str_r.count(letter))
-            denominator = reduce(mul, len(r_ts)**(len(numerator)))
+            denominator = reduce(mul, len(str_r)**(len(numerator)))
             numerator = reduce(mul, numerator)
         expected_value = (numerator/denominator)
 
