@@ -1,0 +1,939 @@
+A71 Mitchell Hospital (B1)
+A06 Crerar Library (B1)
+F02 Steam Plant (B1)
+here
+F02 Steam Plant (B1): Excepted
+F02 Steam Plant (B1):done
+G02 Capin Hall (B1)
+A06 Crerar Library (B1): Excepted
+A06 Crerar Library (B1):done
+D36 Social Science Building (B1)
+A71 Mitchell Hospital (B1): Excepted
+A71 Mitchell Hospital (B1):done
+A75 DCAM (R1)
+D36 Social Science Building (B1): Excepted
+D36 Social Science Building (B1):done
+A75 DCAM (R2)
+G02 Capin Hall (B1): Excepted
+G02 Capin Hall (B1):done
+H01 Computers 1155 Building (B1)
+A75 DCAM (R1): Excepted
+A75 DCAM (R1):done
+A11 Kovler Laboratories (B1)
+A75 DCAM (R2): Excepted
+A75 DCAM (R2):done
+A08 Hinds Laboratories (R1)
+A08 Hinds Laboratories (R1): Excepted
+A08 Hinds Laboratories (R1):done
+A75 DCAM (R3)
+H01 Computers 1155 Building (B1): Excepted
+H01 Computers 1155 Building (B1):done
+A84 American School (B1)
+A75 DCAM (R3): Excepted
+A75 DCAM (R3):done
+A62 Cummings Life Sciences (B1)
+A11 Kovler Laboratories (B1): Excepted
+A11 Kovler Laboratories (B1):done
+A13 Bookstore (B1)
+A84 American School (B1): Excepted
+A84 American School (B1):done
+H02 Law School (B1)
+A62 Cummings Life Sciences (B1): Excepted
+A62 Cummings Life Sciences (B1):done
+A22 Carlson Animal Research (B4)
+A13 Bookstore (B1): Excepted
+A13 Bookstore (B1):done
+F02 Steam Plant (B2)
+H02 Law School (B1): Excepted
+H02 Law School (B1):done
+C02 Crown Field House (B1)
+A22 Carlson Animal Research (B4): Excepted
+A22 Carlson Animal Research (B4):done
+E21 Breckinridge House (B1)
+F02 Steam Plant (B2): Excepted
+F02 Steam Plant (B2):done
+A27 Chicago Lying Hospital (B1)
+C02 Crown Field House (B1): Excepted
+C02 Crown Field House (B1):done
+A14 Brain Research Pavilion (B1)
+E21 Breckinridge House (B1): Excepted
+E21 Breckinridge House (B1):done
+D14 Center Gender Studies (B1)
+D14 Center Gender Studies (B1): Excepted
+D14 Center Gender Studies (B1):done
+L07 5482 S. Greenwood Ave (R1)
+A27 Chicago Lying Hospital (B1): Excepted
+A27 Chicago Lying Hospital (B1):done
+A23 Billings Hospital (B1)
+A14 Brain Research Pavilion (B1): Excepted
+A14 Brain Research Pavilion (B1):done
+A17 Wyler Child Hospital (B1)
+L07 5482 S. Greenwood Ave (R1): Excepted
+L07 5482 S. Greenwood Ave (R1):done
+D25 Walker Museum (R1)
+D25 Walker Museum (R1): Excepted
+D25 Walker Museum (R1):done
+D25 Walker Museum (R2)
+D25 Walker Museum (R2): Excepted
+D25 Walker Museum (R2):done
+I13 Woodlawn Social Service (B1)
+A23 Billings Hospital (B1): Excepted
+A23 Billings Hospital (B1):done
+A16 Peck Pavilion (B1)
+A17 Wyler Child Hospital (B1): Excepted
+A17 Wyler Child Hospital (B1):done
+D53 Pick Hall (R1)
+D53 Pick Hall (R1): Excepted
+D53 Pick Hall (R1):done
+N11 ATS (B1)
+I13 Woodlawn Social Service (B1): Excepted
+I13 Woodlawn Social Service (B1):done
+B34 Stagg Field Building (B1)
+A16 Peck Pavilion (B1): Excepted
+A16 Peck Pavilion (B1):done
+D16 Eckhart/Ryerson (B1)
+N11 ATS (B1): Excepted
+N11 ATS (B1):done
+D16 Eckhart/Ryerson (B2)
+B34 Stagg Field Building (B1): Excepted
+B34 Stagg Field Building (B1):done
+C31 54th & Ellis Parking (B1)
+D16 Eckhart/Ryerson (B1): Excepted
+D16 Eckhart/Ryerson (B1):done
+C31 54th & Ellis Parking (B2)
+D16 Eckhart/Ryerson (B2): Excepted
+D16 Eckhart/Ryerson (B2):done
+D20 Levi Hall (B1)
+C31 54th & Ellis Parking (B1): Excepted
+C31 54th & Ellis Parking (B1):done
+I10 6022-24 S. Drexel (B3)
+C31 54th & Ellis Parking (B2): Excepted
+C31 54th & Ellis Parking (B2):done
+B36 BSLC (B1)
+D20 Levi Hall (B1): Excepted
+D20 Levi Hall (B1):done
+A50 MRS Building (CLSC) (B1)
+I10 6022-24 S. Drexel (B3): Excepted
+I10 6022-24 S. Drexel (B3):done
+F02 Steam Plant (B3)
+B36 BSLC (B1): Excepted
+B36 BSLC (B1):done
+E44 Booth Harper Center (B1)
+A50 MRS Building (CLSC) (B1): Excepted
+A50 MRS Building (CLSC) (B1):done
+E44 Booth Harper Center (B2)
+E44 Booth Harper Center (B2): Excepted
+E44 Booth Harper Center (B2):done
+E44 Booth Harper Center (B3)
+F02 Steam Plant (B3): Excepted
+F02 Steam Plant (B3):done
+E44 Booth Harper Center (B4)
+E44 Booth Harper Center (B1): Excepted
+E44 Booth Harper Center (B1):done
+B34 Stagg Field Building (B2)
+E44 Booth Harper Center (B3): Excepted
+E44 Booth Harper Center (B3):done
+L07 5482 S. Greenwood Ave (R2)
+L07 5482 S. Greenwood Ave (R2): Excepted
+L07 5482 S. Greenwood Ave (R2):done
+A16 Peck Pavilion (B2)
+E44 Booth Harper Center (B4): Excepted
+E44 Booth Harper Center (B4):done
+D37 Stuart Hall (B1)
+A16 Peck Pavilion (B2): Excepted
+A16 Peck Pavilion (B2):done
+D06 Anatomy Building (R1)
+B34 Stagg Field Building (B2): Excepted
+B34 Stagg Field Building (B2):done
+G03 NGRH (B2)
+D06 Anatomy Building (R1): Excepted
+D06 Anatomy Building (R1):done
+A12 Ingleside Hall (B1)
+D37 Stuart Hall (B1): Excepted
+D37 Stuart Hall (B1):done
+C36 Alumni House (R1)
+C36 Alumni House (R1): Excepted
+C36 Alumni House (R1):done
+D54 Special Events (B1)
+A12 Ingleside Hall (B1): Excepted
+A12 Ingleside Hall (B1):done
+F10 1537 E. 60th Parking (R1)
+F10 1537 E. 60th Parking (R1): Excepted
+F10 1537 E. 60th Parking (R1):done
+A19 Franklin Institute (B2)
+A19 Franklin Institute (B2): Excepted
+A19 Franklin Institute (B2):done
+A07 Kersten Physics (R1)
+D54 Special Events (B1): Excepted
+D54 Special Events (B1):done
+D06 Anatomy Building (B1)
+D06 Anatomy Building (B1): Excepted
+D06 Anatomy Building (B1):done
+A87 Comer's Child Hospital (R4)
+A87 Comer's Child Hospital (R4): Excepted
+A87 Comer's Child Hospital (R4):done
+A87 Comer's Child Hospital (R5)
+A87 Comer's Child Hospital (R5): Excepted
+A87 Comer's Child Hospital (R5):done
+B34 Stagg Field Building (B5)
+A07 Kersten Physics (R1): Excepted
+A07 Kersten Physics (R1):done
+B36 BSLC (R3)
+B36 BSLC (R3): Excepted
+B36 BSLC (R3):done
+A87 Comer's Child Hospital (R6)
+A87 Comer's Child Hospital (R6): Excepted
+A87 Comer's Child Hospital (R6):done
+G14 Kimbark Parking Lot (R1)
+G03 NGRH (B2): Excepted
+G03 NGRH (B2):done
+C02 Crown Field House (R3)
+C02 Crown Field House (R3): Excepted
+C02 Crown Field House (R3):done
+I02 Midway Studios (U1)
+G14 Kimbark Parking Lot (R1): Excepted
+G14 Kimbark Parking Lot (R1):done
+F12 Press Building (B1)
+B34 Stagg Field Building (B5): Excepted
+B34 Stagg Field Building (B5):done
+G01 Orthogenic School (R1)
+F12 Press Building (B1): Excepted
+F12 Press Building (B1):done
+H02 Law School (B2)
+I02 Midway Studios (U1): Excepted
+I02 Midway Studios (U1):done
+A22 Carlson Animal Research (B3)
+G01 Orthogenic School (R1): Excepted
+G01 Orthogenic School (R1):done
+A15 Abbott Memorial Hall (R1)
+A22 Carlson Animal Research (B3): Excepted
+A22 Carlson Animal Research (B3):done
+A14 Brain Research Pavilion (R4)
+A15 Abbott Memorial Hall (R1): Excepted
+A15 Abbott Memorial Hall (R1):done
+H09 6031 S. Ellis (R1)
+H09 6031 S. Ellis (R1): Excepted
+H09 6031 S. Ellis (R1):done
+H09 6031 S. Ellis (R2)
+H09 6031 S. Ellis (R2): Excepted
+H09 6031 S. Ellis (R2):done
+H01 Computers 1155 Building (R1)
+A14 Brain Research Pavilion (R4): Excepted
+A14 Brain Research Pavilion (R4):done
+A75 DCAM (R4)
+A75 DCAM (R4): Excepted
+A75 DCAM (R4):done
+E21 Breckinridge House (B2)
+H01 Computers 1155 Building (R1): Excepted
+H01 Computers 1155 Building (R1):done
+H03 6025 S. Ellis (B)
+H02 Law School (B2): Excepted
+H02 Law School (B2):done
+A18 Armour Research (B1)
+H03 6025 S. Ellis (B): Excepted
+H03 6025 S. Ellis (B):done
+A16 Peck Pavilion (B3)
+E21 Breckinridge House (B2): Excepted
+E21 Breckinridge House (B2):done
+A16 Peck Pavilion (B4)
+A16 Peck Pavilion (B4): Excepted
+A16 Peck Pavilion (B4):done
+A62 Cummings Life Sciences (B3)
+A18 Armour Research (B1): Excepted
+A18 Armour Research (B1):done
+E52 McGiffert (B1)
+E52 McGiffert (B1): Excepted
+E52 McGiffert (B1):done
+B98 KCBD (R1)
+A16 Peck Pavilion (B3): Excepted
+A16 Peck Pavilion (B3):done
+B98 KCBD (R2)
+A62 Cummings Life Sciences (B3): Excepted
+A62 Cummings Life Sciences (B3):done
+B98 KCBD (R3)
+B98 KCBD (R1): Excepted
+B98 KCBD (R1):done
+D47 Development II (B1)
+B98 KCBD (R2): Excepted
+B98 KCBD (R2):done
+E01 Robie House (B2)
+B98 KCBD (R3): Excepted
+B98 KCBD (R3):done
+F15 6035 S. Blackstone (B1)
+D47 Development II (B1): Excepted
+D47 Development II (B1):done
+F15 6035 S. Blackstone (B2)
+E01 Robie House (B2): Excepted
+E01 Robie House (B2):done
+F15 6035 S. Blackstone (B4)
+F15 6035 S. Blackstone (B4): Excepted
+F15 6035 S. Blackstone (B4):done
+E13 International House (B1)
+F15 6035 S. Blackstone (B1): Excepted
+F15 6035 S. Blackstone (B1):done
+C36 Alumni House (B2)
+F15 6035 S. Blackstone (B2): Excepted
+F15 6035 S. Blackstone (B2):done
+D20 Levi Hall (R1)
+E13 International House (B1): Excepted
+E13 International House (B1):done
+D46 Human Development (R1)
+D20 Levi Hall (R1): Excepted
+D20 Levi Hall (R1):done
+A07 Kersten Physics (B4)
+C36 Alumni House (B2): Excepted
+C36 Alumni House (B2):done
+H01 1155 Building (U2)
+D46 Human Development (R1): Excepted
+D46 Human Development (R1):done
+A86 GCIS (B6)
+A86 GCIS (B6): Excepted
+A86 GCIS (B6):done
+B113 5615 S. Maryland (B1)
+A07 Kersten Physics (B4): Excepted
+A07 Kersten Physics (B4):done
+B113 5615 S. Maryland (B2)
+H01 1155 Building (U2): Excepted
+H01 1155 Building (U2):done
+B113 5615 S. Maryland (B3)
+B113 5615 S. Maryland (B1): Excepted
+B113 5615 S. Maryland (B1):done
+B113 5615 S. Maryland (B4)
+B113 5615 S. Maryland (B2): Excepted
+B113 5615 S. Maryland (B2):done
+A23 Billings Hospital (B2)
+B113 5615 S. Maryland (B3): Excepted
+B113 5615 S. Maryland (B3):done
+A86 GCIS (B7)
+A86 GCIS (B7): Excepted
+A86 GCIS (B7):done
+H09 6031 S. Ellis (B1)
+B113 5615 S. Maryland (B4): Excepted
+B113 5615 S. Maryland (B4):done
+A62 Cummings Life Sciences (B5)
+A23 Billings Hospital (B2): Excepted
+A23 Billings Hospital (B2):done
+A07 Kersten Physics (B2)
+A62 Cummings Life Sciences (B5): Excepted
+A62 Cummings Life Sciences (B5):done
+D19 Jones Laboratory (B1)
+H09 6031 S. Ellis (B1): Excepted
+H09 6031 S. Ellis (B1):done
+A70 UC Hospital Chiller (B1)
+A07 Kersten Physics (B2): Excepted
+A07 Kersten Physics (B2):done
+A70 UC Hospital Chiller (B2)
+D19 Jones Laboratory (B1): Excepted
+D19 Jones Laboratory (B1):done
+D20 Levi Hall (B2)
+A70 UC Hospital Chiller (B1): Excepted
+A70 UC Hospital Chiller (B1):done
+C33 Max Palevsky Halls (B1)
+A70 UC Hospital Chiller (B2): Excepted
+A70 UC Hospital Chiller (B2):done
+A07 Kersten Physics (B3)
+D20 Levi Hall (B2): Excepted
+D20 Levi Hall (B2):done
+D07/D08 Snell-Hitchcock (B2)
+C33 Max Palevsky Halls (B1): Excepted
+C33 Max Palevsky Halls (B1):done
+H02 Law School (B3)
+A07 Kersten Physics (B3): Excepted
+A07 Kersten Physics (B3):done
+D19 Jones S/B Searle (B2)
+D07/D08 Snell-Hitchcock (B2): Excepted
+D07/D08 Snell-Hitchcock (B2):done
+D13 Math-Stat Building (B2)
+H02 Law School (B3): Excepted
+H02 Law School (B3):done
+B36 BSLC (U1)
+D19 Jones S/B Searle (B2): Excepted
+D19 Jones S/B Searle (B2):done
+A22 Carlson Animal Research (B2)
+D13 Math-Stat Building (B2): Excepted
+D13 Math-Stat Building (B2):done
+A08 Hinds Laboratories (B2)
+A22 Carlson Animal Research (B2): Excepted
+A22 Carlson Animal Research (B2):done
+D13 Math-Stat Building (B1)
+B36 BSLC (U1): Excepted
+B36 BSLC (U1):done
+B01 LASR (B1)
+A08 Hinds Laboratories (B2): Excepted
+A08 Hinds Laboratories (B2):done
+I29 61st & Drexel (B1)
+D13 Math-Stat Building (B1): Excepted
+D13 Math-Stat Building (B1):done
+H09 6025 S. Ellis Dining (B1)
+B01 LASR (B1): Excepted
+B01 LASR (B1):done
+E05 Lillie House (B1)
+I29 61st & Drexel (B1): Excepted
+I29 61st & Drexel (B1):done
+E20 Wilder House (B1)
+H09 6025 S. Ellis Dining (B1): Excepted
+H09 6025 S. Ellis Dining (B1):done
+B29 Univ. Service Garage (B1)
+E05 Lillie House (B1): Excepted
+E05 Lillie House (B1):done
+D54 Special Events (B2)
+E20 Wilder House (B1): Excepted
+E20 Wilder House (B1):done
+G01 Orthogenic School (B2)
+G01 Orthogenic School (B2): Excepted
+G01 Orthogenic School (B2):done
+D29 Rockefeller Chapel (B1)
+B29 Univ. Service Garage (B1): Excepted
+B29 Univ. Service Garage (B1):done
+D19 Jones S/B Searle (B1)
+D54 Special Events (B2): Excepted
+D54 Special Events (B2):done
+I10 6022-24 S. Drexel (B2)
+D29 Rockefeller Chapel (B1): Excepted
+D29 Rockefeller Chapel (B1):done
+D48 5737 S. University Ave (U1)
+D19 Jones S/B Searle (B1): Excepted
+D19 Jones S/B Searle (B1):done
+B27 5631-33 S. Maryland (B1)
+I10 6022-24 S. Drexel (B2): Excepted
+I10 6022-24 S. Drexel (B2):done
+A62 Cummings Life Sciences (B4)
+D48 5737 S. University Ave (U1): Excepted
+D48 5737 S. University Ave (U1):done
+NHP CCD (B1)
+A62 Cummings Life Sciences (B4): Excepted
+A62 Cummings Life Sciences (B4):done
+NHP (B1)
+B27 5631-33 S. Maryland (B1): Excepted
+B27 5631-33 S. Maryland (B1):done
+NHP (B2)
+NHP (B1): Excepted
+NHP (B1):done
+C25 Mansueto (B1)
+NHP CCD (B1): Excepted
+NHP CCD (B1):done
+C25 Mansueto (B2)
+NHP (B2): Excepted
+NHP (B2):done
+NHP (B3)
+C25 Mansueto (B1): Excepted
+C25 Mansueto (B1):done
+NHP (B4)
+C25 Mansueto (B2): Excepted
+C25 Mansueto (B2):done
+NHP (B5)
+NHP (B3): Excepted
+NHP (B3):done
+NHP (B6)
+NHP (B4): Excepted
+NHP (B4):done
+NHP (B7)
+NHP (B5): Excepted
+NHP (B5):done
+NHP (B8)
+NHP (B6): Excepted
+NHP (B6):done
+NHP (B9)
+NHP (B7): Excepted
+NHP (B7):done
+NHP (B10)
+NHP (B8): Excepted
+NHP (B8):done
+NHP (B11)
+NHP (B9): Excepted
+NHP (B9):done
+NHP (B12)
+NHP (B10): Excepted
+NHP (B10):done
+NHP (B13)
+NHP (B11): Excepted
+NHP (B11):done
+C03 Regenstein Library (B1)
+NHP (B12): Excepted
+NHP (B12):done
+C03 Regenstein Chiller (B1)
+NHP (B13): Excepted
+NHP (B13):done
+D19 Jones Laboratory (B2)
+C03 Regenstein Library (B1): Excepted
+C03 Regenstein Library (B1):done
+G10 Atomic Scientists (B3)
+G10 Atomic Scientists (B3): Excepted
+G10 Atomic Scientists (B3):done
+B36 BSLC (B2)
+C03 Regenstein Chiller (B1): Excepted
+C03 Regenstein Chiller (B1):done
+H03 Burton Judson (B1)
+D19 Jones Laboratory (B2): Excepted
+D19 Jones Laboratory (B2):done
+D45 Press Journals (B2)
+B36 BSLC (B2): Excepted
+B36 BSLC (B2):done
+E13 International House (B2)
+H03 Burton Judson (B1): Excepted
+H03 Burton Judson (B1):done
+I29 61st & Drexel (B2)
+D45 Press Journals (B2): Excepted
+D45 Press Journals (B2):done
+C25 Mansueto (B3)
+E13 International House (B2): Excepted
+E13 International House (B2):done
+A08 Hinds Laboratories (B1)
+I29 61st & Drexel (B2): Excepted
+I29 61st & Drexel (B2):done
+F15 6035 S. Blackstone (B3)
+C25 Mansueto (B3): Excepted
+C25 Mansueto (B3):done
+D01 Quadrangle Club (B3)
+A08 Hinds Laboratories (B1): Excepted
+A08 Hinds Laboratories (B1):done
+A62 Cummings Life Sciences (B6)
+F15 6035 S. Blackstone (B3): Excepted
+F15 6035 S. Blackstone (B3):done
+CTS - New 1407 E 60th (B1)
+D01 Quadrangle Club (B3): Excepted
+D01 Quadrangle Club (B3):done
+DLAC (B1)
+A62 Cummings Life Sciences (B6): Excepted
+A62 Cummings Life Sciences (B6):done
+D45 Press Journals (U1)
+CTS - New 1407 E 60th (B1): Excepted
+CTS - New 1407 E 60th (B1):done
+D01 Quadrangle Club (B2)
+D45 Press Journals (U1): Excepted
+D45 Press Journals (U1):done
+DLAC (B2)
+DLAC (B1): Excepted
+DLAC (B1):done
+DLAC (B3)
+DLAC (B2): Excepted
+DLAC (B2):done
+CTS - New 1407 E 60th (B2)
+D01 Quadrangle Club (B2): Excepted
+D01 Quadrangle Club (B2):done
+E01 Robie House (B3)
+DLAC (B3): Excepted
+DLAC (B3):done
+D18 Kent Laboratory (B1)
+CTS - New 1407 E 60th (B2): Excepted
+CTS - New 1407 E 60th (B2):done
+DLAC (B4)
+DLAC (B4): Excepted
+DLAC (B4):done
+A87 Comer's Child Hospital (B6)
+A87 Comer's Child Hospital (B6): Excepted
+A87 Comer's Child Hospital (B6):done
+A87 Comer's Child Hospital (B7)
+E01 Robie House (B3): Excepted
+E01 Robie House (B3):done
+A87 Comer's Child Hospital (B8)
+D18 Kent Laboratory (B1): Excepted
+D18 Kent Laboratory (B1):done
+A87 Comer's Child Hospital (B9)
+A87 Comer's Child Hospital (B7): Excepted
+A87 Comer's Child Hospital (B7):done
+A86 GCIS (B8)
+A87 Comer's Child Hospital (B8): Excepted
+A87 Comer's Child Hospital (B8):done
+G10 Atomic Scientists (B2)
+G10 Atomic Scientists (B2): Excepted
+G10 Atomic Scientists (B2):done
+A86 GCIS (B9)
+A87 Comer's Child Hospital (B9): Excepted
+A87 Comer's Child Hospital (B9):done
+A86 GCIS (B10)
+A86 GCIS (B8): Excepted
+A86 GCIS (B8):done
+A86 GCIS (B11)
+A86 GCIS (B9): Excepted
+A86 GCIS (B9):done
+A86 GCIS (B12)
+A86 GCIS (B11): Excepted
+A86 GCIS (B11):done
+D10 Culver Hall (B2)
+A86 GCIS (B10): Excepted
+A86 GCIS (B10):done
+E52 McGiffert (U1)
+E52 McGiffert (U1): Excepted
+E52 McGiffert (U1):done
+B03 Accelerator Building (B1)
+A86 GCIS (B12): Excepted
+A86 GCIS (B12):done
+B03 Accelerator Building (B2)
+D10 Culver Hall (B2): Excepted
+D10 Culver Hall (B2):done
+E09 Ida Noyes Hall (B2)
+B03 Accelerator Building (B1): Excepted
+B03 Accelerator Building (B1):done
+D45 Press Journals (B3)
+B03 Accelerator Building (B2): Excepted
+B03 Accelerator Building (B2):done
+A70 UC Hospital Parking (B1)
+E09 Ida Noyes Hall (B2): Excepted
+E09 Ida Noyes Hall (B2):done
+G03 NGRH (B1)
+D45 Press Journals (B3): Excepted
+D45 Press Journals (B3):done
+E52 McGiffert (B2)
+A70 UC Hospital Parking (B1): Excepted
+A70 UC Hospital Parking (B1):done
+D69 1164-78 E. 58th Street (U1)
+E52 McGiffert (B2): Excepted
+E52 McGiffert (B2):done
+F08 Laboratory Services (U1)
+G03 NGRH (B1): Excepted
+G03 NGRH (B1):done
+E21 Breckinridge House (U1)
+D69 1164-78 E. 58th Street (U1): Excepted
+D69 1164-78 E. 58th Street (U1):done
+E44 Booth Harper Center (U1)
+F08 Laboratory Services (U1): Excepted
+F08 Laboratory Services (U1):done
+E44 Booth Harper Center (U2)
+E21 Breckinridge House (U1): Excepted
+E21 Breckinridge House (U1):done
+D29 Rockefeller Chapel (U1)
+E44 Booth Harper Center (U1): Excepted
+E44 Booth Harper Center (U1):done
+H02 Law School (U1)
+D29 Rockefeller Chapel (U1): Excepted
+D29 Rockefeller Chapel (U1):done
+D69 1164-78 E. 58th Street (B4)
+E44 Booth Harper Center (U2): Excepted
+E44 Booth Harper Center (U2):done
+D19 Jones Laboratory (U1)
+H02 Law School (U1): Excepted
+H02 Law School (U1):done
+A70 UC Hospital Parking (U1)
+A70 UC Hospital Parking (U1): Excepted
+A70 UC Hospital Parking (U1):done
+G03 NGRH (U1)
+D19 Jones Laboratory (U1): Excepted
+D19 Jones Laboratory (U1):done
+D53 Pick Hall (U2)
+D69 1164-78 E. 58th Street (B4): Excepted
+D69 1164-78 E. 58th Street (B4):done
+A25 Gilman Smith Hospital (U1)
+G03 NGRH (U1): Excepted
+G03 NGRH (U1):done
+A19 Franklin Institute (U1)
+D53 Pick Hall (U2): Excepted
+D53 Pick Hall (U2):done
+A19 Franklin Institute (U2)
+A25 Gilman Smith Hospital (U1): Excepted
+A25 Gilman Smith Hospital (U1):done
+D53 Pick Hall (U1)
+A19 Franklin Institute (U1): Excepted
+A19 Franklin Institute (U1):done
+D18 Kent Laboratory (U1)
+A19 Franklin Institute (U2): Excepted
+A19 Franklin Institute (U2):done
+A06 Crerar Library (U1)
+D53 Pick Hall (U1): Excepted
+D53 Pick Hall (U1):done
+D01 Quadrangle (U1)
+D18 Kent Laboratory (U1): Excepted
+D18 Kent Laboratory (U1):done
+H01 1155 Building (U4)
+A06 Crerar Library (U1): Excepted
+A06 Crerar Library (U1):done
+A17 Wyler Child Hospital (U1)
+D01 Quadrangle (U1): Excepted
+D01 Quadrangle (U1):done
+A14 Brain Research Pavilion (U1)
+A14 Brain Research Pavilion (U1): Excepted
+A14 Brain Research Pavilion (U1):done
+A87 Comer's Child Hospital (U2)
+H01 1155 Building (U4): Excepted
+H01 1155 Building (U4):done
+A86 GCIS (U1)
+A17 Wyler Child Hospital (U1): Excepted
+A17 Wyler Child Hospital (U1):done
+Brain Research Pavilion (U2)
+A87 Comer's Child Hospital (U2): Excepted
+A87 Comer's Child Hospital (U2):done
+B08 Bio-Psych (U1)
+A86 GCIS (U1): Excepted
+A86 GCIS (U1):done
+A87 Comer's Child Hospital (U3)
+Brain Research Pavilion (U2): Excepted
+Brain Research Pavilion (U2):done
+H01 1155 Building (U5)
+B08 Bio-Psych (U1): Excepted
+B08 Bio-Psych (U1):done
+A06 Crerar Library (U2)
+A87 Comer's Child Hospital (U3): Excepted
+A87 Comer's Child Hospital (U3):done
+F12 Press Building (U1)
+F12 Press Building (U1): Excepted
+F12 Press Building (U1):done
+A87 Comer's Child Hospital (U4)
+H01 1155 Building (U5): Excepted
+H01 1155 Building (U5):done
+I04 Edelstone Hall (U1)
+A06 Crerar Library (U2): Excepted
+A06 Crerar Library (U2):done
+A08 Hinds Laboratories (U1)
+A87 Comer's Child Hospital (U4): Excepted
+A87 Comer's Child Hospital (U4):done
+C13 Smart Museum (U1)
+I04 Edelstone Hall (U1): Excepted
+I04 Edelstone Hall (U1):done
+A14 Brain Research Pavilion (U3)
+A08 Hinds Laboratories (U1): Excepted
+A08 Hinds Laboratories (U1):done
+I02 Midway Studios (U2)
+C13 Smart Museum (U1): Excepted
+C13 Smart Museum (U1):done
+B36 BSLC (U3)
+A14 Brain Research Pavilion (U3): Excepted
+A14 Brain Research Pavilion (U3):done
+B01 LASR (R2)
+I02 Midway Studios (U2): Excepted
+I02 Midway Studios (U2):done
+B36 BSLC (U4)
+B01 LASR (R2): Excepted
+B01 LASR (R2):done
+H03 Burton Judson (U1)
+B36 BSLC (U3): Excepted
+B36 BSLC (U3):done
+D38 Harper Library (U3)
+B36 BSLC (U4): Excepted
+B36 BSLC (U4):done
+A17 Wyler Child Hospital (U2)
+D38 Harper Library (U3): Excepted
+D38 Harper Library (U3):done
+D69 Becker Friedman (B1)
+H03 Burton Judson (U1): Excepted
+H03 Burton Judson (U1):done
+N11 ATS (U1)
+A17 Wyler Child Hospital (U2): Excepted
+A17 Wyler Child Hospital (U2):done
+D38 Harper Library (U1)
+D69 Becker Friedman (B1): Excepted
+D69 Becker Friedman (B1):done
+D21 Cobb Hall (U1)
+N11 ATS (U1): Excepted
+N11 ATS (U1):done
+D36 Social Science Building (U1)
+D38 Harper Library (U1): Excepted
+D38 Harper Library (U1):done
+D38 Harper Library (U2)
+D36 Social Science Building (U1): Excepted
+D36 Social Science Building (U1):done
+D42 Goodspeed Hall (U1)
+D21 Cobb Hall (U1): Excepted
+D21 Cobb Hall (U1):done
+A16 Peck Pavilion (U1)
+D38 Harper Library (U2): Excepted
+D38 Harper Library (U2):done
+A71 Mitchell Hospital (U1)
+D42 Goodspeed Hall (U1): Excepted
+D42 Goodspeed Hall (U1):done
+A19 Franklin Institute (U3)
+A16 Peck Pavilion (U1): Excepted
+A16 Peck Pavilion (U1):done
+D14 Center Gender Studies (B2)
+A71 Mitchell Hospital (U1): Excepted
+A71 Mitchell Hospital (U1):done
+E11 High School (B1)
+A19 Franklin Institute (U3): Excepted
+A19 Franklin Institute (U3):done
+E52 MicGiffert House (B1)
+E52 MicGiffert House (B1): Excepted
+E52 MicGiffert House (B1):done
+E11 High Schol (B3)
+D14 Center Gender Studies (B2): Excepted
+D14 Center Gender Studies (B2):done
+E05 Lillie House (R1)
+E05 Lillie House (R1): Excepted
+E05 Lillie House (R1):done
+H01 1155 Building (U1)
+E11 High School (B1): Excepted
+E11 High School (B1):done
+A84 American School (B2)
+E11 High Schol (B3): Excepted
+E11 High Schol (B3):done
+H01 1155 Building (U3)
+A84 American School (B2): Excepted
+A84 American School (B2):done
+D45 Press Journals (R3)
+H01 1155 Building (U1): Excepted
+H01 1155 Building (U1):done
+D47 Development II (R2)
+D45 Press Journals (R3): Excepted
+D45 Press Journals (R3):done
+E11 High School (U1)
+H01 1155 Building (U3): Excepted
+H01 1155 Building (U3):done
+E11 High School (U2)
+D47 Development II (R2): Excepted
+D47 Development II (R2):done
+A27 Chicago Lying Hospital (U1)
+E11 High School (U1): Excepted
+E11 High School (U1):done
+C13 Smart Museum (U2)
+E11 High School (U2): Excepted
+E11 High School (U2):done
+H01 1155 Building (U6)
+A27 Chicago Lying Hospital (U1): Excepted
+A27 Chicago Lying Hospital (U1):done
+C02 Crown Field House (U1)
+C02 Crown Field House (U1): Excepted
+C02 Crown Field House (U1):done
+A87 Comer's Child Hospital (U1)
+A87 Comer's Child Hospital (U1): Excepted
+A87 Comer's Child Hospital (U1):done
+B36 BSLC (U2)
+B36 BSLC (U2): Excepted
+B36 BSLC (U2):done
+A75 DCAM (U1)
+A75 DCAM (U1): Excepted
+A75 DCAM (U1):done
+A08 Hinds Laboratories (U2)
+A08 Hinds Laboratories (U2): Excepted
+A08 Hinds Laboratories (U2):done
+F10 1537 E. 60th Parking (R2)
+F10 1537 E. 60th Parking (R2): Excepted
+F10 1537 E. 60th Parking (R2):done
+G14 Kimbark Parking Lot (R2)
+G14 Kimbark Parking Lot (R2): Excepted
+G14 Kimbark Parking Lot (R2):done
+E11 High School (B2)
+E11 High School (B2): Excepted
+E11 High School (B2):done
+D37 Stuart Hall (B2)
+D37 Stuart Hall (B2): Excepted
+D37 Stuart Hall (B2):done
+B07 Eckhardt Research (B1)
+B07 Eckhardt Research (B1): Excepted
+B07 Eckhardt Research (B1):done
+B07 Eckhardt Research (B2)
+B07 Eckhardt Research (B2): Excepted
+B07 Eckhardt Research (B2):done
+D53 Pick Hall (U3)
+D53 Pick Hall (U3): Excepted
+D53 Pick Hall (U3):done
+D36 Social Science Building (B2)
+D36 Social Science Building (B2): Excepted
+D36 Social Science Building (B2):done
+B07 Eckhardt Research (B3)
+B07 Eckhardt Research (B3): Excepted
+B07 Eckhardt Research (B3):done
+B07 Eckhardt Research (B4)
+B07 Eckhardt Research (B4): Excepted
+B07 Eckhardt Research (B4):done
+B07 Eckhardt Research (B5)
+B07 Eckhardt Research (B5): Excepted
+B07 Eckhardt Research (B5):done
+L07 5482 S. Greenwood (U1)
+L07 5482 S. Greenwood (U1): Excepted
+L07 5482 S. Greenwood (U1):done
+C36 Alumni House (R2)
+C36 Alumni House (R2): Excepted
+C36 Alumni House (R2):done
+G01 Orthogenic School (U1)
+G01 Orthogenic School (U1): Excepted
+G01 Orthogenic School (U1):done
+D25 Walker Museum (U1)
+D25 Walker Museum (U1): Excepted
+D25 Walker Museum (U1):done
+D25 Walker Museum (U2)
+D25 Walker Museum (U2): Excepted
+D25 Walker Museum (U2):done
+D06 Anatomy Building (U1)
+D06 Anatomy Building (U1): Excepted
+D06 Anatomy Building (U1):done
+A07 Kersten Physics (U1)
+A07 Kersten Physics (U1): Excepted
+A07 Kersten Physics (U1):done
+NHP CCD (B2)
+NHP CCD (B2): Excepted
+NHP CCD (B2):done
+A22 Carlson Animal Reserach (U1)
+A22 Carlson Animal Reserach (U1): Excepted
+A22 Carlson Animal Reserach (U1):done
+H01 Computers 1155 Building (U1)
+H01 Computers 1155 Building (U1): Excepted
+H01 Computers 1155 Building (U1):done
+A15 Abbott Memorial Hall (U1)
+A15 Abbott Memorial Hall (U1): Excepted
+A15 Abbott Memorial Hall (U1):done
+A87 Comer's Child Hospital (U5)
+A87 Comer's Child Hospital (U5): Excepted
+A87 Comer's Child Hospital (U5):done
+A14 Brain Research Pavilion (U4)
+A14 Brain Research Pavilion (U4): Excepted
+A14 Brain Research Pavilion (U4):done
+A87 Comer's Child Hospital (U6)
+A87 Comer's Child Hospital (U6): Excepted
+A87 Comer's Child Hospital (U6):done
+E11 Gordon Parks Art Wing (B1)
+E11 Gordon Parks Art Wing (B1): Excepted
+E11 Gordon Parks Art Wing (B1):done
+E11 Gordon Parks Art Wing (B2)
+E11 Gordon Parks Art Wing (B2): Excepted
+E11 Gordon Parks Art Wing (B2):done
+E11 Gordon Parks Art Wing (B3)
+E11 Gordon Parks Art Wing (B3): Excepted
+E11 Gordon Parks Art Wing (B3):done
+NHP 56th & Drexel (B1)
+NHP 56th & Drexel (B1): Excepted
+NHP 56th & Drexel (B1):done
+CCD vault location (B1)
+CCD vault location (B1): Excepted
+CCD vault location (B1):done
+CCD (Parking Lot) (U1)
+CCD (Parking Lot) (U1): Excepted
+CCD (Parking Lot) (U1):done
+D46 Human Development (U1)
+D46 Human Development (U1): Excepted
+D46 Human Development (U1):done
+Kimbark Parking Lot (G14)
+Kimbark Parking Lot (G14): Excepted
+Kimbark Parking Lot (G14):done
+C36 Alumni House (U1)
+C36 Alumni House (U1): Excepted
+C36 Alumni House (U1):done
+D45 Press Journals (U2)
+D45 Press Journals (U2): Excepted
+D45 Press Journals (U2):done
+D47 Development II (U1)
+D47 Development II (U1): Excepted
+D47 Development II (U1):done
+F10 1537 E. 60th Parking (U1)
+F10 1537 E. 60th Parking (U1): Excepted
+F10 1537 E. 60th Parking (U1):done
+E05 Lillie House (U1)
+E05 Lillie House (U1): Excepted
+E05 Lillie House (U1):done
+L07 5482 S. Greenwood Ave (L07)
+L07 5482 S. Greenwood Ave (L07): Excepted
+L07 5482 S. Greenwood Ave (L07):done
+A75 DCAM (U2)
+A75 DCAM (U2): Excepted
+A75 DCAM (U2):done
+A75 DCAM (U3)
+A75 DCAM (U3): Excepted
+A75 DCAM (U3):done
+A75 DCAM (U4)
+A75 DCAM (U4): Excepted
+A75 DCAM (U4):done
+B98 KCBD (U1)
+B98 KCBD (U1): Excepted
+B98 KCBD (U1):done
+B01 LASR (U1)
+B01 LASR (U1): Excepted
+B01 LASR (U1):done
+D20 Levi Hall (U1)
+D20 Levi Hall (U1): Excepted
+D20 Levi Hall (U1):done
+H01 1155 Building (U6): Excepted
+H01 1155 Building (U6):done
+C13 Smart Museum (U2): Excepted
+C13 Smart Museum (U2):done
+now here
+
+real	32m14.902s
+user	34m14.064s
+sys	33m12.632s

@@ -1,4 +1,7 @@
-#sorting characters used in string
+"""
+Utility functions to use with suffix_array.py from https://code.google.com/archive/p/pysuffix/
+No code added for 123.
+"""
 def lst_char(str_unicode):
   lst_ch = list(set(str_unicode))
   lst_ch.sort()

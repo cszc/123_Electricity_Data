@@ -9,7 +9,6 @@ processes = []
 surprises = []
 results = []
 
-
 def main():
     parser = ArgumentParser()
     parser.add_argument('csv')
@@ -37,9 +36,7 @@ def main():
         processes.append(p)
 
     # block until all tasks are done
-    print('here')
     p.join()
-    print('now here')
 
     # stop workers
     for i in range(num_processes):
@@ -57,14 +54,17 @@ def worker():
             break
         try:
             print(item['col_name'])
-            surprising_windows, scores, col_name = tarzan(**item)
-            surprises.append((surprising_windows, col_name))
-            results.append((scores, col_name))
+            surprising_windows, surprises, scores, x = tarzan(**item)
+            print(x)
+            print(scores)
+            print()
+            surprises.append((surprising_windows, item['col_name']))
+            results.append((scores, item['col_name']))
         except:
-            print(item['col_name']+ ": Excepted")
+            print(item['col_name']+ ": Excepted\n")
             continue
         finally:
-            print(item['col_name'] + ":done")
+            print(item['col_name'] + ":done\n")
             q.task_done()
 
 

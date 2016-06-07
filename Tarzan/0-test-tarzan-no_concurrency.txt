@@ -1,0 +1,767 @@
+Starting
+A71 Mitchell Hospital (B1)
+surprising scores and indices:[]
+
+A06 Crerar Library (B1)
+surprising scores and indices:[]
+
+F02 Steam Plant (B1)
+Error: Not enough variation in time series
+G02 Capin Hall (B1)
+surprising scores and indices:[(1.9248219999423481, 34), (1.8308494998702833, 35), (2.8872329999135222, 36), (2.8872329999135222, 84), (1.9248219999423481, 130), (1.8308494998702833, 131), (2.8872329999135222, 132)]
+
+D36 Social Science Building (B1)
+Error: Not enough variation in time series
+A75 DCAM (R1)
+Error: Not enough variation in time series
+A75 DCAM (R2)
+Error: Not enough variation in time series
+H01 Computers 1155 Building (B1)
+Error: Not enough variation in time series
+A11 Kovler Laboratories (B1)
+surprising scores and indices:[]
+
+A08 Hinds Laboratories (R1)
+Error: Not enough variation in time series
+A75 DCAM (R3)
+Error: Not enough variation in time series
+A84 American School (B1)
+surprising scores and indices:[(1.9342192499495547, 57), (1.9999640716864635, 58), (1.981205499985587, 59), (1.9342192499495547, 105), (1.9999640716864635, 106), (1.981205499985587, 107)]
+
+A62 Cummings Life Sciences (B1)
+surprising scores and indices:[]
+
+A13 Bookstore (B1)
+surprising scores and indices:[]
+
+H02 Law School (B1)
+surprising scores and indices:[]
+
+A22 Carlson Animal Research (B4)
+surprising scores and indices:[]
+
+F02 Steam Plant (B2)
+Error: Not enough variation in time series
+C02 Crown Field House (B1)
+surprising scores and indices:[]
+
+E21 Breckinridge House (B1)
+surprising scores and indices:[]
+
+A27 Chicago Lying Hospital (B1)
+surprising scores and indices:[]
+
+A14 Brain Research Pavilion (B1)
+Error: Not enough variation in time series
+D14 Center Gender Studies (B1)
+Error: Not enough variation in time series
+L07 5482 S. Greenwood Ave (R1)
+Error: Not enough variation in time series
+A23 Billings Hospital (B1)
+surprising scores and indices:[]
+
+A17 Wyler Child Hospital (B1)
+surprising scores and indices:[]
+
+D25 Walker Museum (R1)
+Error: Not enough variation in time series
+D25 Walker Museum (R2)
+Error: Not enough variation in time series
+I13 Woodlawn Social Service (B1)
+surprising scores and indices:[(1.962410999971174, 11), (1.962410999971174, 108), (1.981205499985587, 111), (1.9999999451808208, 146), (1.9999993563286333, 147), (1.9999999440285767, 148), (1.9999997836489218, 149), (1.9999999451808208, 194), (1.9999993563286333, 195), (1.9999999440285767, 196), (1.9999997836489218, 197), (1.981205499985587, 205)]
+
+A16 Peck Pavilion (B1)
+surprising scores and indices:[]
+
+D53 Pick Hall (R1)
+Error: Not enough variation in time series
+N11 ATS (B1)
+surprising scores and indices:[]
+
+B34 Stagg Field Building (B1)
+Error: Not enough variation in time series
+D16 Eckhart/Ryerson (B1)
+surprising scores and indices:[]
+
+D16 Eckhart/Ryerson (B2)
+surprising scores and indices:[]
+
+C31 54th & Ellis Parking (B1)
+surprising scores and indices:[]
+
+C31 54th & Ellis Parking (B2)
+surprising scores and indices:[]
+
+D20 Levi Hall (B1)
+surprising scores and indices:[]
+
+I10 6022-24 S. Drexel (B3)
+surprising scores and indices:[]
+
+B36 BSLC (B1)
+surprising scores and indices:[(1.981205499985587, 22), (1.981205499985587, 114)]
+
+A50 MRS Building (CLSC) (B1)
+surprising scores and indices:[]
+
+F02 Steam Plant (B3)
+surprising scores and indices:[]
+
+E44 Booth Harper Center (B1)
+surprising scores and indices:[(1.962410999971174, 107), (1.962410999971174, 202)]
+
+E44 Booth Harper Center (B2)
+Error: Not enough variation in time series
+E44 Booth Harper Center (B3)
+surprising scores and indices:[]
+
+E44 Booth Harper Center (B4)
+surprising scores and indices:[]
+
+B34 Stagg Field Building (B2)
+Error: Not enough variation in time series
+L07 5482 S. Greenwood Ave (R2)
+Error: Not enough variation in time series
+A16 Peck Pavilion (B2)
+Error: Not enough variation in time series
+D37 Stuart Hall (B1)
+Error: Not enough variation in time series
+D06 Anatomy Building (R1)
+Error: Not enough variation in time series
+G03 NGRH (B2)
+surprising scores and indices:[]
+
+A12 Ingleside Hall (B1)
+Error: Not enough variation in time series
+C36 Alumni House (R1)
+Error: Not enough variation in time series
+D54 Special Events (B1)
+Error: Not enough variation in time series
+F10 1537 E. 60th Parking (R1)
+Error: Not enough variation in time series
+A19 Franklin Institute (B2)
+Error: Not enough variation in time series
+A07 Kersten Physics (R1)
+Error: Not enough variation in time series
+D06 Anatomy Building (B1)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (R4)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (R5)
+Error: Not enough variation in time series
+B34 Stagg Field Building (B5)
+Error: Not enough variation in time series
+B36 BSLC (R3)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (R6)
+Error: Not enough variation in time series
+G14 Kimbark Parking Lot (R1)
+Error: Not enough variation in time series
+C02 Crown Field House (R3)
+Error: Not enough variation in time series
+I02 Midway Studios (U1)
+Error: Not enough variation in time series
+F12 Press Building (B1)
+surprising scores and indices:[]
+
+G01 Orthogenic School (R1)
+Error: Not enough variation in time series
+H02 Law School (B2)
+surprising scores and indices:[(1.9999999998713718, 53), (1.9999999998713718, 101)]
+
+A22 Carlson Animal Research (B3)
+Error: Not enough variation in time series
+A15 Abbott Memorial Hall (R1)
+Error: Not enough variation in time series
+A14 Brain Research Pavilion (R4)
+Error: Not enough variation in time series
+H09 6031 S. Ellis (R1)
+Error: Not enough variation in time series
+H09 6031 S. Ellis (R2)
+Error: Not enough variation in time series
+H01 Computers 1155 Building (R1)
+Error: Not enough variation in time series
+A75 DCAM (R4)
+Error: Not enough variation in time series
+E21 Breckinridge House (B2)
+Error: Not enough variation in time series
+H03 6025 S. Ellis (B)
+Error: Not enough variation in time series
+A18 Armour Research (B1)
+surprising scores and indices:[]
+
+A16 Peck Pavilion (B3)
+surprising scores and indices:[]
+
+A16 Peck Pavilion (B4)
+Error: Not enough variation in time series
+A62 Cummings Life Sciences (B3)
+surprising scores and indices:[]
+
+E52 McGiffert (B1)
+Error: Not enough variation in time series
+B98 KCBD (R1)
+Error: Not enough variation in time series
+B98 KCBD (R2)
+Error: Not enough variation in time series
+B98 KCBD (R3)
+Error: Not enough variation in time series
+D47 Development II (B1)
+surprising scores and indices:[]
+
+E01 Robie House (B2)
+surprising scores and indices:[]
+
+F15 6035 S. Blackstone (B1)
+surprising scores and indices:[]
+
+F15 6035 S. Blackstone (B2)
+Error: Not enough variation in time series
+F15 6035 S. Blackstone (B4)
+Error: Not enough variation in time series
+E13 International House (B1)
+surprising scores and indices:[(1.9530137499639677, 152), (1.7744659998270444, 153), (1.9530137499639677, 200), (1.7744659998270444, 201)]
+
+C36 Alumni House (B2)
+surprising scores and indices:[]
+
+D20 Levi Hall (R1)
+Error: Not enough variation in time series
+D46 Human Development (R1)
+Error: Not enough variation in time series
+A07 Kersten Physics (B4)
+Error: Not enough variation in time series
+H01 1155 Building (U2)
+Error: Not enough variation in time series
+A86 GCIS (B6)
+Error: Not enough variation in time series
+B113 5615 S. Maryland (B1)
+Error: Not enough variation in time series
+B113 5615 S. Maryland (B2)
+surprising scores and indices:[]
+
+B113 5615 S. Maryland (B3)
+surprising scores and indices:[]
+
+B113 5615 S. Maryland (B4)
+Error: Not enough variation in time series
+A23 Billings Hospital (B2)
+surprising scores and indices:[]
+
+A86 GCIS (B7)
+Error: Not enough variation in time series
+H09 6031 S. Ellis (B1)
+surprising scores and indices:[]
+
+A62 Cummings Life Sciences (B5)
+Error: Not enough variation in time series
+A07 Kersten Physics (B2)
+Error: Not enough variation in time series
+D19 Jones Laboratory (B1)
+surprising scores and indices:[]
+
+A70 UC Hospital Chiller (B1)
+surprising scores and indices:[]
+
+A70 UC Hospital Chiller (B2)
+Error: Not enough variation in time series
+D20 Levi Hall (B2)
+surprising scores and indices:[]
+
+C33 Max Palevsky Halls (B1)
+surprising scores and indices:[]
+
+A07 Kersten Physics (B3)
+Error: Not enough variation in time series
+D07/D08 Snell-Hitchcock (B2)
+surprising scores and indices:[]
+
+H02 Law School (B3)
+surprising scores and indices:[]
+
+D19 Jones S/B Searle (B2)
+surprising scores and indices:[]
+
+D13 Math-Stat Building (B2)
+surprising scores and indices:[]
+
+B36 BSLC (U1)
+surprising scores and indices:[]
+
+A22 Carlson Animal Research (B2)
+surprising scores and indices:[]
+
+A08 Hinds Laboratories (B2)
+surprising scores and indices:[]
+
+D13 Math-Stat Building (B1)
+Error: Not enough variation in time series
+B01 LASR (B1)
+surprising scores and indices:[]
+
+I29 61st & Drexel (B1)
+surprising scores and indices:[]
+
+H09 6025 S. Ellis Dining (B1)
+surprising scores and indices:[]
+
+E05 Lillie House (B1)
+surprising scores and indices:[]
+
+E20 Wilder House (B1)
+surprising scores and indices:[]
+
+B29 Univ. Service Garage (B1)
+surprising scores and indices:[]
+
+D54 Special Events (B2)
+surprising scores and indices:[]
+
+G01 Orthogenic School (B2)
+Error: Not enough variation in time series
+D29 Rockefeller Chapel (B1)
+surprising scores and indices:[]
+
+D19 Jones S/B Searle (B1)
+surprising scores and indices:[]
+
+I10 6022-24 S. Drexel (B2)
+surprising scores and indices:[]
+
+D48 5737 S. University Ave (U1)
+Error: Not enough variation in time series
+B27 5631-33 S. Maryland (B1)
+Error: Not enough variation in time series
+A62 Cummings Life Sciences (B4)
+Error: Not enough variation in time series
+NHP CCD (B1)
+surprising scores and indices:[]
+
+NHP (B1)
+Error: Not enough variation in time series
+NHP (B2)
+surprising scores and indices:[]
+
+C25 Mansueto (B1)
+surprising scores and indices:[]
+
+C25 Mansueto (B2)
+surprising scores and indices:[]
+
+NHP (B3)
+surprising scores and indices:[]
+
+NHP (B4)
+surprising scores and indices:[]
+
+NHP (B5)
+surprising scores and indices:[]
+
+NHP (B6)
+surprising scores and indices:[(1.9154247499351418, 276), (1.981205499985587, 277), (1.9906027499927936, 278), (1.9154247499351418, 310), (1.981205499985587, 311), (1.9906027499927936, 312)]
+
+NHP (B7)
+surprising scores and indices:[]
+
+NHP (B8)
+Error: Not enough variation in time series
+NHP (B9)
+surprising scores and indices:[(1.9999999876809784, 104), (1.9999999876809784, 244)]
+
+NHP (B10)
+surprising scores and indices:[]
+
+NHP (B11)
+surprising scores and indices:[]
+
+NHP (B12)
+surprising scores and indices:[(1.9999999993999893, 278), (1.9999999993933957, 279), (1.9999999999999936, 280), (1.9999999993999893, 295), (1.9999999993933957, 296), (1.9999999999999936, 297)]
+
+NHP (B13)
+surprising scores and indices:[]
+
+C03 Regenstein Library (B1)
+surprising scores and indices:[(1.9999874143973118, 30), (1.9999983420518688, 56), (1.9999999999733349, 57), (1.9999874143973118, 126), (1.9999983420518688, 152), (1.9999999999733349, 153)]
+
+C03 Regenstein Chiller (B1)
+surprising scores and indices:[(1.999999999999983, 85), (1.999999999999983, 181)]
+
+D19 Jones Laboratory (B2)
+surprising scores and indices:[]
+
+G10 Atomic Scientists (B3)
+Error: Not enough variation in time series
+B36 BSLC (B2)
+surprising scores and indices:[]
+
+H03 Burton Judson (B1)
+Error: Not enough variation in time series
+D45 Press Journals (B2)
+surprising scores and indices:[]
+
+E13 International House (B2)
+surprising scores and indices:[]
+
+I29 61st & Drexel (B2)
+Error: Not enough variation in time series
+C25 Mansueto (B3)
+surprising scores and indices:[]
+
+A08 Hinds Laboratories (B1)
+Error: Not enough variation in time series
+F15 6035 S. Blackstone (B3)
+surprising scores and indices:[]
+
+D01 Quadrangle Club (B3)
+Error: Not enough variation in time series
+A62 Cummings Life Sciences (B6)
+Error: Not enough variation in time series
+CTS - New 1407 E 60th (B1)
+surprising scores and indices:[]
+
+DLAC (B1)
+surprising scores and indices:[]
+
+D45 Press Journals (U1)
+Error: Not enough variation in time series
+D01 Quadrangle Club (B2)
+surprising scores and indices:[]
+
+DLAC (B2)
+Error: Not enough variation in time series
+DLAC (B3)
+surprising scores and indices:[]
+
+CTS - New 1407 E 60th (B2)
+Error: Not enough variation in time series
+E01 Robie House (B3)
+Error: Not enough variation in time series
+D18 Kent Laboratory (B1)
+surprising scores and indices:[(1.9999997831060272, 28), (1.9999997831060272, 76)]
+
+DLAC (B4)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (B6)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (B7)
+surprising scores and indices:[]
+
+A87 Comer's Child Hospital (B8)
+surprising scores and indices:[]
+
+A87 Comer's Child Hospital (B9)
+surprising scores and indices:[]
+
+A86 GCIS (B8)
+surprising scores and indices:[]
+
+G10 Atomic Scientists (B2)
+Error: Not enough variation in time series
+A86 GCIS (B9)
+surprising scores and indices:[(1.9999978759848225, 277), (1.9999978759848225, 325)]
+
+A86 GCIS (B10)
+surprising scores and indices:[]
+
+A86 GCIS (B11)
+Error: Not enough variation in time series
+A86 GCIS (B12)
+surprising scores and indices:[]
+
+D10 Culver Hall (B2)
+surprising scores and indices:[]
+
+E52 McGiffert (U1)
+Error: Not enough variation in time series
+B03 Accelerator Building (B1)
+surprising scores and indices:[]
+
+B03 Accelerator Building (B2)
+surprising scores and indices:[]
+
+E09 Ida Noyes Hall (B2)
+surprising scores and indices:[]
+
+D45 Press Journals (B3)
+Error: Not enough variation in time series
+A70 UC Hospital Parking (B1)
+surprising scores and indices:[(1.99991968162387, 106), (1.99991968162387, 154)]
+
+G03 NGRH (B1)
+Error: Not enough variation in time series
+E52 McGiffert (B2)
+Error: Not enough variation in time series
+D69 1164-78 E. 58th Street (U1)
+surprising scores and indices:[]
+
+F08 Laboratory Services (U1)
+surprising scores and indices:[]
+
+E21 Breckinridge House (U1)
+Error: Not enough variation in time series
+E44 Booth Harper Center (U1)
+Error: Not enough variation in time series
+E44 Booth Harper Center (U2)
+Error: Not enough variation in time series
+D29 Rockefeller Chapel (U1)
+surprising scores and indices:[]
+
+H02 Law School (U1)
+surprising scores and indices:[]
+
+D69 1164-78 E. 58th Street (B4)
+Error: Not enough variation in time series
+D19 Jones Laboratory (U1)
+Error: Not enough variation in time series
+A70 UC Hospital Parking (U1)
+Error: Not enough variation in time series
+G03 NGRH (U1)
+surprising scores and indices:[]
+
+D53 Pick Hall (U2)
+surprising scores and indices:[]
+
+A25 Gilman Smith Hospital (U1)
+surprising scores and indices:[]
+
+A19 Franklin Institute (U1)
+surprising scores and indices:[]
+
+A19 Franklin Institute (U2)
+surprising scores and indices:[]
+
+D53 Pick Hall (U1)
+surprising scores and indices:[]
+
+D18 Kent Laboratory (U1)
+Error: Not enough variation in time series
+A06 Crerar Library (U1)
+Error: Not enough variation in time series
+D01 Quadrangle (U1)
+surprising scores and indices:[]
+
+H01 1155 Building (U4)
+surprising scores and indices:[(1.9999801326638325, 6), (1.9999801326638325, 61)]
+
+A17 Wyler Child Hospital (U1)
+surprising scores and indices:[]
+
+A14 Brain Research Pavilion (U1)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (U2)
+surprising scores and indices:[(1.9999999941626991, 204), (1.9999999941626991, 211)]
+
+A86 GCIS (U1)
+surprising scores and indices:[(1.5771237496757085, 13), (1.8778357499063159, 60), (1.8778357499063159, 156), (1.5771237496757085, 157)]
+
+Brain Research Pavilion (U2)
+Error: Not enough variation in time series
+B08 Bio-Psych (U1)
+surprising scores and indices:[]
+
+A87 Comer's Child Hospital (U3)
+surprising scores and indices:[]
+
+H01 1155 Building (U5)
+surprising scores and indices:[(1.962410999971174, 174), (1.962410999971174, 222)]
+
+A06 Crerar Library (U2)
+surprising scores and indices:[(1.9248219999423481, 246), (1.8308494998702833, 247), (1.962410999971174, 248), (1.9248219999423481, 294), (1.8308494998702833, 295), (1.962410999971174, 296)]
+
+F12 Press Building (U1)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (U4)
+surprising scores and indices:[]
+
+I04 Edelstone Hall (U1)
+surprising scores and indices:[]
+
+A08 Hinds Laboratories (U1)
+surprising scores and indices:[]
+
+C13 Smart Museum (U1)
+surprising scores and indices:[]
+
+A14 Brain Research Pavilion (U3)
+surprising scores and indices:[]
+
+I02 Midway Studios (U2)
+Error: Not enough variation in time series
+B36 BSLC (U3)
+surprising scores and indices:[]
+
+B01 LASR (R2)
+Error: Not enough variation in time series
+B36 BSLC (U4)
+Error: Not enough variation in time series
+H03 Burton Judson (U1)
+surprising scores and indices:[]
+
+D38 Harper Library (U3)
+Error: Not enough variation in time series
+A17 Wyler Child Hospital (U2)
+surprising scores and indices:[]
+
+D69 Becker Friedman (B1)
+Error: Not enough variation in time series
+N11 ATS (U1)
+surprising scores and indices:[]
+
+D38 Harper Library (U1)
+surprising scores and indices:[]
+
+D21 Cobb Hall (U1)
+surprising scores and indices:[(1.962410999971174, 11), (1.962410999971174, 59)]
+
+D36 Social Science Building (U1)
+Error: Not enough variation in time series
+D38 Harper Library (U2)
+surprising scores and indices:[(1.9999880356673392, 111), (1.9999880356673392, 207)]
+
+D42 Goodspeed Hall (U1)
+surprising scores and indices:[(1.999999991026034, 0), (1.9999999999999976, 1), (1.999999999999997, 2), (1.9999999999995757, 3), (1.999999991026034, 285), (1.999999991026034, 288), (1.9999999999999976, 289), (1.999999999999997, 290), (1.9999999999995757, 291)]
+
+A16 Peck Pavilion (U1)
+surprising scores and indices:[]
+
+A71 Mitchell Hospital (U1)
+surprising scores and indices:[]
+
+A19 Franklin Institute (U3)
+Error: Not enough variation in time series
+D14 Center Gender Studies (B2)
+surprising scores and indices:[]
+
+E11 High School (B1)
+Error: Not enough variation in time series
+E52 MicGiffert House (B1)
+Error: Not enough variation in time series
+E11 High Schol (B3)
+Error: Not enough variation in time series
+E05 Lillie House (R1)
+Error: Not enough variation in time series
+H01 1155 Building (U1)
+surprising scores and indices:[]
+
+A84 American School (B2)
+Error: Not enough variation in time series
+H01 1155 Building (U3)
+surprising scores and indices:[]
+
+D45 Press Journals (R3)
+Error: Not enough variation in time series
+D47 Development II (R2)
+Error: Not enough variation in time series
+E11 High School (U1)
+Error: Not enough variation in time series
+E11 High School (U2)
+surprising scores and indices:[]
+
+A27 Chicago Lying Hospital (U1)
+surprising scores and indices:[(1.7744659998270444, 157), (1.7744659998270444, 204)]
+
+C13 Smart Museum (U2)
+Error: Not enough variation in time series
+H01 1155 Building (U6)
+Error: Not enough variation in time series
+C02 Crown Field House (U1)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (U1)
+Error: Not enough variation in time series
+B36 BSLC (U2)
+Error: Not enough variation in time series
+A75 DCAM (U1)
+Error: Not enough variation in time series
+A08 Hinds Laboratories (U2)
+Error: Not enough variation in time series
+F10 1537 E. 60th Parking (R2)
+Error: Not enough variation in time series
+G14 Kimbark Parking Lot (R2)
+Error: Not enough variation in time series
+E11 High School (B2)
+Error: Not enough variation in time series
+D37 Stuart Hall (B2)
+Error: Not enough variation in time series
+B07 Eckhardt Research (B1)
+Error: Not enough variation in time series
+B07 Eckhardt Research (B2)
+Error: Not enough variation in time series
+D53 Pick Hall (U3)
+Error: Not enough variation in time series
+D36 Social Science Building (B2)
+Error: Not enough variation in time series
+B07 Eckhardt Research (B3)
+Error: Not enough variation in time series
+B07 Eckhardt Research (B4)
+Error: Not enough variation in time series
+B07 Eckhardt Research (B5)
+Error: Not enough variation in time series
+L07 5482 S. Greenwood (U1)
+Error: Not enough variation in time series
+C36 Alumni House (R2)
+Error: Not enough variation in time series
+G01 Orthogenic School (U1)
+Error: Not enough variation in time series
+D25 Walker Museum (U1)
+Error: Not enough variation in time series
+D25 Walker Museum (U2)
+Error: Not enough variation in time series
+D06 Anatomy Building (U1)
+Error: Not enough variation in time series
+A07 Kersten Physics (U1)
+Error: Not enough variation in time series
+NHP CCD (B2)
+Error: Not enough variation in time series
+A22 Carlson Animal Reserach (U1)
+Error: Not enough variation in time series
+H01 Computers 1155 Building (U1)
+Error: Not enough variation in time series
+A15 Abbott Memorial Hall (U1)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (U5)
+Error: Not enough variation in time series
+A14 Brain Research Pavilion (U4)
+Error: Not enough variation in time series
+A87 Comer's Child Hospital (U6)
+Error: Not enough variation in time series
+E11 Gordon Parks Art Wing (B1)
+Error: Not enough variation in time series
+E11 Gordon Parks Art Wing (B2)
+Error: Not enough variation in time series
+E11 Gordon Parks Art Wing (B3)
+Error: Not enough variation in time series
+NHP 56th & Drexel (B1)
+Error: Not enough variation in time series
+CCD vault location (B1)
+Error: Not enough variation in time series
+CCD (Parking Lot) (U1)
+Error: Not enough variation in time series
+D46 Human Development (U1)
+Error: Not enough variation in time series
+Kimbark Parking Lot (G14)
+Error: Not enough variation in time series
+C36 Alumni House (U1)
+Error: Not enough variation in time series
+D45 Press Journals (U2)
+Error: Not enough variation in time series
+D47 Development II (U1)
+Error: Not enough variation in time series
+F10 1537 E. 60th Parking (U1)
+Error: Not enough variation in time series
+E05 Lillie House (U1)
+Error: Not enough variation in time series
+L07 5482 S. Greenwood Ave (L07)
+Error: Not enough variation in time series
+A75 DCAM (U2)
+Error: Not enough variation in time series
+A75 DCAM (U3)
+Error: Not enough variation in time series
+A75 DCAM (U4)
+Error: Not enough variation in time series
+B98 KCBD (U1)
+Error: Not enough variation in time series
+B01 LASR (U1)
+Error: Not enough variation in time series
+D20 Levi Hall (U1)
+Error: Not enough variation in time series
+Finished 312 meters in 23:29:38

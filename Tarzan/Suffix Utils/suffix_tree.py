@@ -1,4 +1,8 @@
-#Suffix tree
+"""
+Class for building suffix trees.
+No original code added.
+Ultimately not needed and not used for tarzan algorithm.
+"""
 
 class Node(object):
     """A node in the suffix tree.
@@ -208,25 +212,6 @@ class SuffixTree(object):
             curr_node = edge.dest_node_index
         return edge.first_char_index - len(substring) + ln
 
-    def get_substring_frequency(self, substring):
-        """Returns the index of substring in string or -1 if it
-        is not found.
-        """
-        if not substring:
-            return -1
-        curr_node = 0
-        i = 0
-        children = 0
-        while i < len(substring):
-            edge = self.edges.get((curr_node, substring[i]))
-            if edge.explicit:
-                children += 1
-            ln = min(edge.length + 1, len(substring) - i)
-            if substring[i:i + ln] != self.string[edge.first_char_index:edge.first_char_index + ln]:
-                return -1
-            i += edge.length + 1
-            curr_node = edge.dest_node_index
-        return children
 
     def has_substring(self, substring):
         return self.find_substring(substring) != -1

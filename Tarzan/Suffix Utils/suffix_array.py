@@ -1,4 +1,9 @@
-"Class for building suffix arrays."
+"""
+Class for building suffix arrays from https://code.google.com/archive/p/pysuffix/
+Code added for 123 is surrounded by 3 hash tags
+Ultimately not needed and not used for tarzan algorithm.
+"""
+
 from sa_tools import *
 from string import *
 
@@ -9,10 +14,11 @@ class Suffix_Array :
         self.suffix_array = []
         self.fusion = ''
         self.equiv = []
-        #These were added
+        #### These were added for 123
         self.string = str(string)
         self._add_str(self.string)
         self.karkkainen_sort()
+        ###
 
 
     def _get_dict(self) :
@@ -21,7 +27,7 @@ class Suffix_Array :
           "suffix_array" : self.suffix_array
         }
 
-
+    #### added for 123
     def get_suffixes(self):
         suffixes = set()
         for i in self.suffix_array:
@@ -30,6 +36,7 @@ class Suffix_Array :
                     continue
                 suffixes.add(self.string[i:j+1])
         return list(suffixes)
+    ###
 
 
     def _add_str(self, str_unicode) :

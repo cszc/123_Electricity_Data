@@ -10,7 +10,6 @@ import numpy as np
 import pandas as pd
 import warnings
 import string
-from suffix_array import *
 from operator import mul
 from functools import reduce
 
@@ -199,17 +198,24 @@ def score_windows(str_r, str_x, window, threshold=2):
 
 def tarzan(series, alpha_size, window_length, feature_length, col_name, threshold=2):
     '''
+    Takes a time series, alphabet size, window length, feature length, column
+    name, and threshold and calculate a 'suprising' score for each window in the
+    time series.
+
     Input:
-        series:
-        alpha_size:
-        window_length:
-        feature_length:
-        col_name:
-        threshold:
+        series: pandas df with datetime in one column and meter readings in another
+        alpha_size: int, size of alphabet
+        window_length: int, size of window to find anomalies
+        feature_length: int, size of window to discretize
+        col_name: string, col_name of interest
+        threshold: float, scores above are considered surprising
     Output:
-        surprising windows:
-        scores:
-        col_names:
+        surprising_windows: list of lists of ints, i.e. lists of windows whose
+        score was above the threshold
+        surprises: list of tuples countaining a score over a certain threshold
+        (int) and the index in str_x in which in appears
+        scores: list of floats, raw calculated scores
+        x: discretized string
     '''
     one_week = 2*24*7 #2 readings per hour each day for seven days
     ts = series[col_name]
@@ -222,6 +228,7 @@ def tarzan(series, alpha_size, window_length, feature_length, col_name, threshol
     surprising_windows = []
     for surprise in surprises:
         score, index = surprise
-        surprising_windows.append((x_ts[feature_length*index : feature_length*index + feature_length], score))
+        surprising_windows.append(
+            (list(x_ts[feature_length*index : feature_length*index + feature_length])))
 
-    return (surprising_windows, scores, col_name)
+    return (surprising_windows, surprises, scores, x)

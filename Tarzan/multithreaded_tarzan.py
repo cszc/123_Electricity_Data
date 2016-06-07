@@ -38,9 +38,7 @@ def main():
         threads.append(t)
 
     # block until all tasks are done
-    print('here')
     q.join()
-    print('now here')
 
     # stop workers
     for i in range(num_worker_threads):
@@ -57,14 +55,22 @@ def worker():
             break
         try:
             print(item['col_name'])
-            surprising_windows, scores, col_name = tarzan(**item)
-            surprises.append((surprising_windows, col_name))
-            results.append((scores, col_name))
-        except:
-            print(item['col_name']+ ": Excepted")
+            surprising_windows, surprises, scores, x = tarzan(**item)
+            print(x)
+            print(scores)
+            print()
+            surprises.append((surprising_windows, item['col_name']))
+            results.append((scores, item['col_name']))
+        except Exception as e:
+            #Possible exceptions include numpy.polyfit failing on NaN or other
+            #values. Additionally, if there isn't enough variation in the data,
+            #Pandas is unable to create bins to create an alphabet. This usually
+            #happens when the meter is unused and is all 0s.
+            print(e)
+            print(item['col_name']+ ": Excepted\n")
             continue
         finally:
-            print(item['col_name'] + ":done")
+            print(item['col_name'] + ":done\n")
             q.task_done()
 
 
